@@ -6,6 +6,6 @@ The paper can be found in the following link: "XXXXXXXXXXXXXX"
 
 Authors:
 
-Sebastián Baeza-González [![ORCID](images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-0721-3813)
+Sebastián Baeza-González [![ORCID](Images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-0721-3813)
 
-Natsuki Kamakura [![ORCID](images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-0991-9617)
+Natsuki Kamakura [![ORCID](Images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-0991-9617)
